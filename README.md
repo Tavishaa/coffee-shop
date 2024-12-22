@@ -1,4 +1,3 @@
 # coffeeShop
-Creator - Gobinda Das
-
+Creator - 6pin
 A ultimate coffee trading website
